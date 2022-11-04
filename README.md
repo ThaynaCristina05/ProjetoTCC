@@ -10,8 +10,3 @@ Com isso, devem-se o quanto antes reverter essa situação a tempo para que seja
 
 Nosso projeto tem como objetivo alertar os vigilantes da Amazônia, trazendo um propósito de evitar desmatamentos e queimadas. Esse trabalho tem o foco de alerta na floresta, vamos distribuir por toda a floresta dispositivos programados pelo Arduíno para ele detectar a temperatura correta do local, se a temperatura atingir um grau muito elevado acima do normal, o sistema irá fazer um alerta aos vigilantes, sendo assim facilitando o trabalho deles.
 
-# Lista de Referências
-* LUCIAN, Marcelo; OLIVEIRA, Reginaldo. A EXPLORAÇÃO ILEGAL DE MADEIRAS NA TERRA INDÍGENA SETE DE SETEMBRO. CACOAL – RO. 
-* RHETT, Butler. Desmatamento na Amazônia danifica serviços críticos do ecossistema. Mongabay. 2008.
-* KINGO, Alfredo. Amazônia: como aproveitar os benefícios da destruição?. Seielo. 2005
-* MARTIN, Philip.O Desmatamento da Amazônia Brasileira: 2 – O que é desmatamento?. Amazônia Real. 2020.
