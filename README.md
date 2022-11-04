@@ -4,7 +4,7 @@
 ---
 _Breve resumo:_
 
-O projeto tem como finalidade evitar possíveis desastes naturais como o incêndio, tendo o objetivo de alertar os guardas florestais e atalhar as causas das queimadas.
+O projeto tem como finalidade evitar possíveis desastes naturais como o incêndio, tendo o objetivo de alertar os guardas florestais e atalhar as causas das queimadas. A equipe projetou um sistema de Arduino que tem como funcionalidade medir a temperatura em vários pontos estratégicos. Assim que, ultrapassar o limite de temperatura, ele irá mandar um alerta aos agentes responsáveis, evitando que o incêndio se espalhe drasticamente.   
 
 ---
 
