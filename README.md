@@ -1,6 +1,6 @@
 # Sistema de identificação de incêndio 
 
-### Nome dos integrantes: Ana Clara Souza Lima, Jamily Furlan, Kaynan, Yasmim Delfino, Gabriel Rodrigues Cabral e Thayná Cristina Barbosa Nascimento.
+### Nome dos integrantes: Ana Clara Souza Lima, Jamily Furlan, Kaynan, Yasmim Delfino e Thayná Cristina Barbosa Nascimento.
 ---
 _Breve resumo:_
 
