@@ -1,8 +1,0 @@
-
-
-##PASSO A PASSO
-  inicialmente foi usado uma placa de arduino comum e uma protoboard pequena, mas com o caminhar do projeto foi observado que está protoboard não teria espaço o suficiente para tantos elementos que futuramente viriam a ser utilizados, com isto, foi optado utilizar uma placa em maior escala da qual caberiam qualquer expansão futura.
-  Após definir os elementos básicos que seriam usados(Placa de Arduino e a protoboard), começamos a fazer a devida conexão dos cabos(polos positivos e negativos), com isso feito, demos inicio ao projeto, assim buscando o primeiro elemento que veria a ser programado e conectado ao arduino, o botão que seria usado como "interruptor" do projeto, tendo como objetivo ligar ou desligar ele quando necessário,após ter êxito com esta parte, começamos a montar o sistema que teria como funcionalidade detectar o aumento de temperatura na área em específico, assim usando o senso de temperatura para está função, juntamento a isso também começamos a programar um LED que seria utilizado pcomo aviso visual e também um "Piezo" (nome do sistema de som na plataforma tinkercad) para servir como um aviso sonoro, tendo assim dois alertas que seriam ativados quando a temperatura limite se excedesse.
-  Com o sistema de temperatura funcional, foi dado inicio ao sistema de deteção de fumassa...(A DEFINIR)
-  
-  Com isto, iniciamos a ultima etapa do projeto que seria responsavel por mostrar em uma tela LCD informações básicas como a temperatura em tempo real e se aquela área está com riscos, ou se está ocorrendo incêndio(utilizando para este parametro a junção de informação sobre a temperatura e também a presença de fumaça)
